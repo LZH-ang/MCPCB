@@ -1,4 +1,3 @@
 *.pcbdoc linguist-detectable
 *.png linguist-detectable
-*.pcbdoc linguist-language=AltiumDesigner
-*.png linguist-language=AltiumDesigner
+*.png linguist-language=pcbdoc
