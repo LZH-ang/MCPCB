@@ -1,3 +1,4 @@
 *.pcbdoc linguist-detectable
 *.png linguist-detectable
-*.png linguist-language=pcbdoc
+*.png linguist-language=PcbDoc
+*.pcbdoc linguist-language=PcbDoc
