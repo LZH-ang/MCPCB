@@ -1,6 +1,4 @@
-*.SchDoc linguist-detectable
-*.PcbDoc linguist-detectable
-*.PrjPcb linguist-detectable
-*.SchLib linguist-detectable
-*.PcbLib linguist-detectable
-*.htm linguist-language=AltiumDesigner
+*.pcbdoc linguist-detectable
+*.png linguist-detectable
+*.pcbdoc linguist-language=AltiumDesigner
+*.png linguist-language=AltiumDesigner
